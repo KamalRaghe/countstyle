@@ -1,0 +1,1 @@
+const getVideo = document.getElementById('getVideo');

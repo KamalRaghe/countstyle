@@ -1,0 +1,9 @@
+li{
+    list-style: robots;
+}
+
+@counter-style robots{
+    symbols: A B C;
+    suffix: " ";
+    system: cyclic;
+}
